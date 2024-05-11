@@ -1,2 +1,2 @@
 # doom_PICO-IMX
-Classic Doom port. Button, leds and display functionality. 
+Classic Doom port. Buttons, leds and display functionality. 
